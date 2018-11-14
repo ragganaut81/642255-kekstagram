@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Дмитрий Зимин](https://up.htmlacademy.ru/javascript/16/user/642255).
-* Наставник: `Неизвестно`.
+* Наставник: [Роман Кунин](https://htmlacademy.ru/profile/id497465).
 
 ---
 
